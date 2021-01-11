@@ -1,0 +1,1 @@
+Training datasets for the MCF10A-1 and A375-1 movies were constructed with an earlier version of EllipTrack. Scripts for Segmentation have been slightly modified after that, and a few cells may now have a different segmentation result. However, since the majority of cells are not affected by this change, these training datasets can still be used for Track Linking.
